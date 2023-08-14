@@ -1,2 +1,5 @@
 ﻿# MongoDB-authentication-api
-i tried to remove node modules but it still commit it
+normal user signup/in authentication api 
+add nodmailer to send mail with templetes
+added twilio to send otp
+with dynamic server side  languages 
